@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_list">
+        <item>PhnomPenh</item>
+        <item>PhnomPenh</item>
+        <item>PhnomPenh</item>
+        <item>PhnomPenh</item>
+        <item>PhnomPenh</item>
+        <!-- Add other city names -->
+    </string-array>
+</resources>
